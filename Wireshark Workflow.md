@@ -34,6 +34,9 @@ Common interfaces include:
 | `wlan0` | Wireless network |
 | `lo` | Loopback interface |
 
+![Screenshot 2026-03-05 182431](https://github.com/user-attachments/assets/f37e654a-f268-4218-8028-6b86e9510a4b)
+
+
 Once selected, Wireshark will begin **capturing packets in real time**.
 
 ---
