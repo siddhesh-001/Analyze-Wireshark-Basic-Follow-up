@@ -1,3 +1,10 @@
+---
+
+Disclaimer
+
+This repository is intended for educational and cybersecurity research purposes only. Packet captures used in this project should be obtained from authorized environments.
+
+---
 
 # 🦈 Wireshark Workflow (Network Traffic Analysis)
 
