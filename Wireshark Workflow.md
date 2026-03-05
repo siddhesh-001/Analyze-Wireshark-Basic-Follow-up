@@ -29,6 +29,7 @@ Common interfaces include:
 
 | Interface | Description |
 |----------|-------------|
+| `wifi` | Wireless interface |
 | `eth0` | Ethernet connection |
 | `wlan0` | Wireless network |
 | `lo` | Loopback interface |
