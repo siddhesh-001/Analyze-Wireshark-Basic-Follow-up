@@ -201,6 +201,9 @@ Common protocols include:
 | TLS | Encrypted web traffic |
 | ICMP | Network diagnostics |
 
+![Screenshot 2026-03-05 233051](https://github.com/user-attachments/assets/ce73f885-a19e-4b9d-b6d9-b7f8071c2e63)
+
+
 Understanding protocols helps determine **how systems communicate**.
 
 ---
