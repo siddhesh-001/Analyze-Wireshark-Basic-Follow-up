@@ -1,4 +1,4 @@
-# Analyze-Wireshark-Basic-Follow-up
+
 # 🦈 Wireshark Workflow (Network Traffic Analysis)
 
 This workflow outlines the **typical process used to capture and analyze network traffic using Wireshark**.  
@@ -12,7 +12,7 @@ The goal of this workflow is to help you answer three important questions:
 
 ---
 
-# 1️⃣ Start Wireshark and Select a Network Interface
+# 1️. Start Wireshark and Select a Network Interface
 
 ### What
 Choose the network interface that is currently sending or receiving traffic.
@@ -37,7 +37,7 @@ Once selected, Wireshark will begin **capturing packets in real time**.
 
 ---
 
-# 2️⃣ Generate Network Traffic
+# 2️. Generate Network Traffic
 
 ### What
 Create network activity so Wireshark has packets to capture.
@@ -65,7 +65,7 @@ This generates packets such as:
 
 ---
 
-# 3️⃣ Stop Packet Capture
+# 3️. Stop Packet Capture
 
 ### What
 Stop capturing packets so the data can be analyzed.
@@ -80,7 +80,7 @@ You now have a **packet capture file ready for analysis**.
 
 ---
 
-# 4️⃣ Review Captured Packets
+# 4️. Review Captured Packets
 
 Wireshark displays packets in a structured interface with three panels.
 
@@ -137,7 +137,7 @@ This is useful for:
 
 ---
 
-# 5️⃣ Apply Display Filters
+# 5️. Apply Display Filters
 
 Large packet captures can contain thousands of packets.
 
@@ -170,7 +170,7 @@ Press **Enter** to apply the filter.
 
 ---
 
-# 6️⃣ Analyze Protocol Activity
+# 6️. Analyze Protocol Activity
 
 ### What
 Identify which protocols are used in the capture.
@@ -193,7 +193,7 @@ Understanding protocols helps determine **how systems communicate**.
 
 ---
 
-# 7️⃣ Follow Communication Streams
+# 7️. Follow Communication Streams
 
 ### What
 Reconstruct the full communication between two hosts.
@@ -216,7 +216,7 @@ It can reveal:
 
 ---
 
-# 8️⃣ Analyze Network Conversations
+# 8️. Analyze Network Conversations
 
 ### What
 Identify which hosts communicate the most.
@@ -240,7 +240,7 @@ Useful for detecting:
 
 ---
 
-# 9️⃣ Review Protocol Statistics
+# 9️. Review Protocol Statistics
 
 ### What
 Understand which protocols dominate the capture.
@@ -258,7 +258,7 @@ This provides a breakdown of:
 
 ---
 
-# 🔟 Extract Files from Captured Traffic
+# . Extract Files from Captured Traffic
 
 Wireshark can recover files transferred across the network.
 
@@ -279,7 +279,7 @@ This feature is commonly used in **forensic investigations**.
 
 ---
 
-# 1️⃣1️⃣ Save the Capture File
+# 1️1️. Save the Capture File
 
 ### What
 Save the packet capture for later analysis.
