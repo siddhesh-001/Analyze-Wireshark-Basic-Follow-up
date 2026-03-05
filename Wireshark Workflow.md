@@ -217,8 +217,10 @@ Reconstruct the full communication between two hosts.
 Right-click a packet →
 
 ```
-Follow → TCP Stream
+Follow → * Stream
 ```
+<img width="1288" height="742" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/52703af5-4cb4-4b4f-a52a-5b10191caaac" />
+
 
 This shows the **complete conversation between the client and server**.
 
@@ -241,6 +243,10 @@ Identify which hosts communicate the most.
 ```
 Statistics → Conversations
 ```
+<img width="767" height="315" alt="image" src="https://github.com/user-attachments/assets/fc93ca91-d005-4c6b-8860-b2be6ecd5959" />
+
+<img width="1732" height="687" alt="image" src="https://github.com/user-attachments/assets/09ae2988-63e3-46b0-9926-998aff5119d7" />
+
 
 This shows:
 
@@ -265,6 +271,10 @@ Understand which protocols dominate the capture.
 ```
 Statistics → Protocol Hierarchy
 ```
+<img width="720" height="178" alt="image" src="https://github.com/user-attachments/assets/c39caf13-4d60-4cb2-b8f0-cde95486d7c2" />
+
+<img width="1240" height="638" alt="image" src="https://github.com/user-attachments/assets/abe74ae0-eb72-4755-a826-8b6b2b203ca0" />
+
 
 This provides a breakdown of:
 
