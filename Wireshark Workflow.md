@@ -130,7 +130,7 @@ This section helps identify:
 - source and destination IP addresses
 - port numbers
 - protocol metadata
-<img width="1918" height="720" alt="image" src="https://github.com/user-attachments/assets/925b0ddd-5b44-4ffc-96e0-195eeb0d933d" />
+<img width="1419" height="537" alt="image" src="https://github.com/user-attachments/assets/cf947142-5fa4-4554-9eb4-534e29ca584e" />
 
 
 ---
