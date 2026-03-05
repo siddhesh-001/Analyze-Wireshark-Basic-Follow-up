@@ -152,7 +152,8 @@ Top filter bar labeled:
 ```
 Apply a display filter
 ```
-<img width="1110" height="290" alt="Screenshot 2026-03-05 181343" src="https://github.com/user-attachments/assets/82b2c416-a4ef-4d34-a81f-c4d091582b2b" />
+![Screenshot 2026-03-05 181343](https://github.com/user-attachments/assets/833d3eab-3f58-4956-96d9-80872e3396a9)
+
 
 
 ### Example Filters
