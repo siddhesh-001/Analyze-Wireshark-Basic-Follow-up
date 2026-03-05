@@ -124,6 +124,8 @@ This section helps identify:
 - source and destination IP addresses
 - port numbers
 - protocol metadata
+<img width="1918" height="720" alt="image" src="https://github.com/user-attachments/assets/925b0ddd-5b44-4ffc-96e0-195eeb0d933d" />
+
 
 ---
 
