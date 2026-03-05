@@ -107,7 +107,8 @@ Use this panel to quickly identify:
 - active hosts
 - common protocols
 - communication patterns
-  <img width="1363" height="564" alt="image" src="https://github.com/user-attachments/assets/d4a6be94-51b4-419c-bffd-d219ded0a9be" />
+  <img width="1324" height="766" alt="image" src="https://github.com/user-attachments/assets/982bb603-ab33-4b0d-bb81-8a7fba4a371f" />
+
 
 ---
 
