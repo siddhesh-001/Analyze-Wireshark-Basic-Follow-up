@@ -59,6 +59,8 @@ Or generate traffic using terminal commands:
 ```bash
 ping google.com
 ```
+![Screenshot 2026-03-05 182734](https://github.com/user-attachments/assets/1c3518dc-c7c3-446e-b461-28f458c74e35)
+
 
 This generates packets such as:
 
@@ -76,9 +78,8 @@ Stop capturing packets so the data can be analyzed.
 
 ### Where
 Top toolbar → **Stop Capture Button**
+![Screenshot 2026-03-05 182859](https://github.com/user-attachments/assets/29532a6e-d8e0-478a-8581-9236ebacade6)
 
-### How
-Click the stop icon to end the packet capture.
 
 You now have a **packet capture file ready for analysis**.
 
